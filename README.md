@@ -1,6 +1,5 @@
 # Rangga Azhar Fadillah - SHOW ROOM SPORT CAR
-SHOW ROOM SPORT CAR adalah sebuah situs web yang menyajikan berbagai sportcar yang dimiliki oleh owner. Situs web ini dirancang untuk mempersembahkan dan ngeshow kepada pengunjung berbagai sportcar yang dimiliki oleh owner.
-berbagai mobil akan dishow diwebsite ini yang terdiri dari 2 bagian, yaitu show picture dan show videos dan 1 bagian untuk profile owner.
+SHOW ROOM SPORT CAR adalah sebuah situs web yang menyajikan berbagai sportcar yang dimiliki oleh owner. Didesain untuk memukau pengunjung, situs ini mempersembahkan beragam mobil sport melalui dua fitur utama: show picture dan show videos.Selain itu, terdapat bagian khusus yang memperkenalkan profil dari setiap pemilik sportcar. Dengan berbagai preview yang menarik, pengalaman mengunjungi situs ini akan menjadi sebuah pesta visual bagi para pecinta otomotif.
 Web ini memiliki beberapa preview tampilan diantaranya :
 ![Screenshot 2024-05-07 143355](https://github.com/Rangga857/UCP1_PDW_20220140150/assets/127074136/f84632b2-7e93-4b55-bdb0-2c237a6d78fc)
 ![Screenshot 2024-05-07 143408](https://github.com/Rangga857/UCP1_PDW_20220140150/assets/127074136/bb51068d-d186-4b4c-b0de-54ae59799bf6)
